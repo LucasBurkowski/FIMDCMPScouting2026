@@ -44,6 +44,10 @@ class TBAClient:
         """Return all matches a team played at an event."""
         return self._get(f"/team/{team_key}/event/{event_key}/matches")
 
+    def get_team_season_matches(self, team_key: str, year: int) -> list:
+        """Return all matches a team played across the entire season *year*."""
+        return self._get(f"/team/{team_key}/matches/{year}")
+
     # ------------------------------------------------------------------
     # Match helpers
     # ------------------------------------------------------------------

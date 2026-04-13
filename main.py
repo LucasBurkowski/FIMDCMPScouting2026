@@ -237,6 +237,17 @@ class ScoutingApp:
         def update_status(msg: str) -> None:
             self.root.after(0, self.status_var.set, msg)
 
+        # Derive the season year from the event key (e.g. "2026micmp" → 2026)
+        try:
+            season_year = int(event_key[:4])
+        except ValueError:
+            self.root.after(
+                0, messagebox.showerror, "Invalid Event Key",
+                "Event key must start with a 4-digit year (e.g. 2026micmp)."
+            )
+            update_status("Fetch failed.")
+            return
+
         try:
             client = TBAClient(api_key)
             update_status("Fetching team list…")
@@ -257,11 +268,17 @@ class ScoutingApp:
             for idx, team in enumerate(teams):
                 team_key = team["key"]
                 update_status(
-                    f"Fetching matches — {team_key} ({idx + 1}/{total})…"
+                    f"Fetching prior-season matches — {team_key} ({idx + 1}/{total})…"
                 )
                 try:
-                    matches = client.get_team_event_matches(team_key, event_key)
-                    top2 = TBAClient.top_matches(team_key, matches, n=2)
+                    all_matches = client.get_team_season_matches(team_key, season_year)
+                    # Exclude matches played at the DCMP event itself so we
+                    # only consider results from earlier district events.
+                    prior_matches = [
+                        m for m in all_matches
+                        if not m.get("event_key", "").startswith(event_key)
+                    ]
+                    top2 = TBAClient.top_matches(team_key, prior_matches, n=2)
                 except TBAError:
                     top2 = []
 
@@ -274,7 +291,7 @@ class ScoutingApp:
             self.teams_data = new_data
             save_teams_data(new_data)
             self.root.after(0, self._populate_table)
-            update_status(f"Done — {total} teams loaded.")
+            update_status(f"Done — {total} teams loaded (prior-event matches).")
 
         except TBAError as exc:
             self.root.after(0, messagebox.showerror, "TBA API Error", str(exc))
