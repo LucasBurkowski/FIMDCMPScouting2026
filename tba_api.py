@@ -3,6 +3,7 @@ The Blue Alliance API client.
 Docs: https://www.thebluealliance.com/apidocs/v3
 """
 
+import urllib.request
 import requests
 
 BASE_URL = "https://www.thebluealliance.com/api/v3"
@@ -16,6 +17,11 @@ class TBAClient:
     def __init__(self, api_key: str):
         self.session = requests.Session()
         self.session.headers.update({"X-TBA-Auth-Key": api_key})
+        # Explicitly load system/corporate proxies (env vars + macOS system proxy
+        # settings) so the client works regardless of how the app is launched.
+        system_proxies = urllib.request.getproxies()
+        if system_proxies:
+            self.session.proxies.update(system_proxies)
 
     def _get(self, path: str) -> object:
         url = f"{BASE_URL}{path}"

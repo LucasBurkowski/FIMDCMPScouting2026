@@ -1,9 +1,6 @@
 # Secrets / local config
 config.json
 
-# Cached scouting data (local only — tracked separately in data/)
-data/teams_data.json
-data/notes.json
 
 # Python bytecode
 __pycache__/
