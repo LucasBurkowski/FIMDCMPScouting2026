@@ -1,0 +1,1122 @@
+{
+  "frc494": {
+    "team_number": 494,
+    "team_name": "Martians",
+    "top_matches": [
+      {
+        "match_key": "2026mifen_qm48",
+        "comp_level": "qm",
+        "match_number": 48,
+        "set_number": 1,
+        "score": 392,
+        "alliance": "red",
+        "red_score": 392,
+        "blue_score": 95,
+        "video_url": "https://www.youtube.com/watch?v=5tSBKBiVbp0"
+      },
+      {
+        "match_key": "2026mifen_qm82",
+        "comp_level": "qm",
+        "match_number": 82,
+        "set_number": 1,
+        "score": 391,
+        "alliance": "red",
+        "red_score": 391,
+        "blue_score": 94,
+        "video_url": "https://www.youtube.com/watch?v=OgHX7gJOAEw"
+      }
+    ]
+  },
+  "frc503": {
+    "team_number": 503,
+    "team_name": "Frog Force",
+    "top_matches": [
+      {
+        "match_key": "2026mitr2_sf1m1",
+        "comp_level": "sf",
+        "match_number": 1,
+        "set_number": 1,
+        "score": 527,
+        "alliance": "red",
+        "red_score": 527,
+        "blue_score": 85,
+        "video_url": "https://www.youtube.com/watch?v=-VvwpQAN4AE"
+      },
+      {
+        "match_key": "2026mitr2_qm9",
+        "comp_level": "qm",
+        "match_number": 9,
+        "set_number": 1,
+        "score": 426,
+        "alliance": "red",
+        "red_score": 426,
+        "blue_score": 141,
+        "video_url": "https://www.youtube.com/watch?v=9KbAK3FuHro"
+      }
+    ]
+  },
+  "frc573": {
+    "team_number": 573,
+    "team_name": "Mech Warriors",
+    "top_matches": [
+      {
+        "match_key": "2026mitry_qm7",
+        "comp_level": "qm",
+        "match_number": 7,
+        "set_number": 1,
+        "score": 360,
+        "alliance": "blue",
+        "red_score": 54,
+        "blue_score": 360,
+        "video_url": "https://www.youtube.com/watch?v=eTMkWkyF4uc"
+      },
+      {
+        "match_key": "2026mitry_qm79",
+        "comp_level": "qm",
+        "match_number": 79,
+        "set_number": 1,
+        "score": 259,
+        "alliance": "blue",
+        "red_score": 51,
+        "blue_score": 259,
+        "video_url": "https://www.youtube.com/watch?v=FQcwUWyGQ2k"
+      }
+    ]
+  },
+  "frc858": {
+    "team_number": 858,
+    "team_name": "Demons Robotics",
+    "top_matches": [
+      {
+        "match_key": "2026miken_qm48",
+        "comp_level": "qm",
+        "match_number": 48,
+        "set_number": 1,
+        "score": 386,
+        "alliance": "red",
+        "red_score": 386,
+        "blue_score": 122,
+        "video_url": "https://www.youtube.com/watch?v=3v_IA8AFQJs"
+      },
+      {
+        "match_key": "2026miken_sf2m1",
+        "comp_level": "sf",
+        "match_number": 1,
+        "set_number": 2,
+        "score": 265,
+        "alliance": "blue",
+        "red_score": 203,
+        "blue_score": 265,
+        "video_url": "https://www.youtube.com/watch?v=seFajGe2qa4"
+      }
+    ]
+  },
+  "frc1188": {
+    "team_number": 1188,
+    "team_name": "The Ravens",
+    "top_matches": [
+      {
+        "match_key": "2026mibel_qm77",
+        "comp_level": "qm",
+        "match_number": 77,
+        "set_number": 1,
+        "score": 281,
+        "alliance": "blue",
+        "red_score": 114,
+        "blue_score": 281,
+        "video_url": "https://www.youtube.com/watch?v=_la8Hp6Q7nc"
+      },
+      {
+        "match_key": "2026mibel_sf4m1",
+        "comp_level": "sf",
+        "match_number": 1,
+        "set_number": 4,
+        "score": 276,
+        "alliance": "red",
+        "red_score": 276,
+        "blue_score": 138,
+        "video_url": "https://www.youtube.com/watch?v=xQ2Y1A__LY0"
+      }
+    ]
+  },
+  "frc1701": {
+    "team_number": 1701,
+    "team_name": "Robocubs",
+    "top_matches": [
+      {
+        "match_key": "2026mitr2_sf1m1",
+        "comp_level": "sf",
+        "match_number": 1,
+        "set_number": 1,
+        "score": 527,
+        "alliance": "red",
+        "red_score": 527,
+        "blue_score": 85,
+        "video_url": "https://www.youtube.com/watch?v=-VvwpQAN4AE"
+      },
+      {
+        "match_key": "2026mitr2_qm4",
+        "comp_level": "qm",
+        "match_number": 4,
+        "set_number": 1,
+        "score": 428,
+        "alliance": "blue",
+        "red_score": 16,
+        "blue_score": 428,
+        "video_url": "https://www.youtube.com/watch?v=V1fIb2HcUGo"
+      }
+    ]
+  },
+  "frc1918": {
+    "team_number": 1918,
+    "team_name": "Newaygo County GEARS",
+    "top_matches": [
+      {
+        "match_key": "2026mibig_qm57",
+        "comp_level": "qm",
+        "match_number": 57,
+        "set_number": 1,
+        "score": 458,
+        "alliance": "blue",
+        "red_score": 43,
+        "blue_score": 458,
+        "video_url": "https://www.youtube.com/watch?v=B_VHPdSjXqI"
+      },
+      {
+        "match_key": "2026mibig_qm25",
+        "comp_level": "qm",
+        "match_number": 25,
+        "set_number": 1,
+        "score": 407,
+        "alliance": "red",
+        "red_score": 407,
+        "blue_score": 40,
+        "video_url": "https://www.youtube.com/watch?v=nZRlgyDettE"
+      }
+    ]
+  },
+  "frc2224": {
+    "team_number": 2224,
+    "team_name": "RoboPhoenix",
+    "top_matches": [
+      {
+        "match_key": "2026mitr2_sf1m1",
+        "comp_level": "sf",
+        "match_number": 1,
+        "set_number": 1,
+        "score": 527,
+        "alliance": "red",
+        "red_score": 527,
+        "blue_score": 85,
+        "video_url": "https://www.youtube.com/watch?v=-VvwpQAN4AE"
+      },
+      {
+        "match_key": "2026mitr2_f1m2",
+        "comp_level": "f",
+        "match_number": 2,
+        "set_number": 1,
+        "score": 380,
+        "alliance": "blue",
+        "red_score": 175,
+        "blue_score": 380,
+        "video_url": "https://www.youtube.com/watch?v=O1D_XhHzlkA"
+      }
+    ]
+  },
+  "frc2619": {
+    "team_number": 2619,
+    "team_name": "The Charge",
+    "top_matches": [
+      {
+        "match_key": "2026miwmi_qm58",
+        "comp_level": "qm",
+        "match_number": 58,
+        "set_number": 1,
+        "score": 410,
+        "alliance": "red",
+        "red_score": 410,
+        "blue_score": 266,
+        "video_url": "https://www.youtube.com/watch?v=GBCG4bfkB5w"
+      },
+      {
+        "match_key": "2026miwmi_qm10",
+        "comp_level": "qm",
+        "match_number": 10,
+        "set_number": 1,
+        "score": 299,
+        "alliance": "blue",
+        "red_score": 235,
+        "blue_score": 299,
+        "video_url": "https://www.youtube.com/watch?v=vqM6kzQ00pc"
+      }
+    ]
+  },
+  "frc3175": {
+    "team_number": 3175,
+    "team_name": "Knight Vision",
+    "top_matches": [
+      {
+        "match_key": "2026mitry_qm30",
+        "comp_level": "qm",
+        "match_number": 30,
+        "set_number": 1,
+        "score": 418,
+        "alliance": "red",
+        "red_score": 418,
+        "blue_score": 36,
+        "video_url": "https://www.youtube.com/watch?v=VEZ1MUrMMnQ"
+      },
+      {
+        "match_key": "2026mitry_qm17",
+        "comp_level": "qm",
+        "match_number": 17,
+        "set_number": 1,
+        "score": 374,
+        "alliance": "blue",
+        "red_score": 193,
+        "blue_score": 374,
+        "video_url": "https://www.youtube.com/watch?v=J2pJD9tk6tg"
+      }
+    ]
+  },
+  "frc3536": {
+    "team_number": 3536,
+    "team_name": "Electro Eagles",
+    "top_matches": [
+      {
+        "match_key": "2026milsu_qm64",
+        "comp_level": "qm",
+        "match_number": 64,
+        "set_number": 1,
+        "score": 300,
+        "alliance": "red",
+        "red_score": 300,
+        "blue_score": 226,
+        "video_url": "https://www.youtube.com/watch?v=LAICDRvS5eA"
+      },
+      {
+        "match_key": "2026milsu_qm9",
+        "comp_level": "qm",
+        "match_number": 9,
+        "set_number": 1,
+        "score": 284,
+        "alliance": "red",
+        "red_score": 284,
+        "blue_score": 10,
+        "video_url": "https://www.youtube.com/watch?v=47CG3ZkC0Oo"
+      }
+    ]
+  },
+  "frc3538": {
+    "team_number": 3538,
+    "team_name": "RoboJackets",
+    "top_matches": [
+      {
+        "match_key": "2026miliv_qm53",
+        "comp_level": "qm",
+        "match_number": 53,
+        "set_number": 1,
+        "score": 723,
+        "alliance": "red",
+        "red_score": 723,
+        "blue_score": 116,
+        "video_url": "https://www.youtube.com/watch?v=u2YdxiHExmY"
+      },
+      {
+        "match_key": "2026miliv_sf11m1",
+        "comp_level": "sf",
+        "match_number": 1,
+        "set_number": 11,
+        "score": 563,
+        "alliance": "red",
+        "red_score": 563,
+        "blue_score": 354,
+        "video_url": "https://www.youtube.com/watch?v=zu4SKLTdvbs"
+      }
+    ]
+  },
+  "frc3539": {
+    "team_number": 3539,
+    "team_name": "Byting Bulldogs",
+    "top_matches": [
+      {
+        "match_key": "2026miwmi_qm5",
+        "comp_level": "qm",
+        "match_number": 5,
+        "set_number": 1,
+        "score": 451,
+        "alliance": "red",
+        "red_score": 451,
+        "blue_score": 353,
+        "video_url": "https://www.youtube.com/watch?v=omMivUXNNSc"
+      },
+      {
+        "match_key": "2026mimar_sf7m1",
+        "comp_level": "sf",
+        "match_number": 1,
+        "set_number": 7,
+        "score": 417,
+        "alliance": "red",
+        "red_score": 417,
+        "blue_score": 191,
+        "video_url": "https://www.youtube.com/watch?v=kxr_tqiUrTc"
+      }
+    ]
+  },
+  "frc3603": {
+    "team_number": 3603,
+    "team_name": "Cyber Coyotes",
+    "top_matches": [
+      {
+        "match_key": "2026mibig_qm25",
+        "comp_level": "qm",
+        "match_number": 25,
+        "set_number": 1,
+        "score": 407,
+        "alliance": "red",
+        "red_score": 407,
+        "blue_score": 40,
+        "video_url": "https://www.youtube.com/watch?v=nZRlgyDettE"
+      },
+      {
+        "match_key": "2026milac_f1m3",
+        "comp_level": "f",
+        "match_number": 3,
+        "set_number": 1,
+        "score": 275,
+        "alliance": "red",
+        "red_score": 275,
+        "blue_score": 188,
+        "video_url": "https://www.youtube.com/watch?v=OvZb6nSnUdg"
+      }
+    ]
+  },
+  "frc3604": {
+    "team_number": 3604,
+    "team_name": "Goon Squad",
+    "top_matches": [
+      {
+        "match_key": "2026mibro_qm44",
+        "comp_level": "qm",
+        "match_number": 44,
+        "set_number": 1,
+        "score": 363,
+        "alliance": "blue",
+        "red_score": 32,
+        "blue_score": 363,
+        "video_url": "https://www.youtube.com/watch?v=UemQLBfcOCE"
+      },
+      {
+        "match_key": "2026misal_qm44",
+        "comp_level": "qm",
+        "match_number": 44,
+        "set_number": 1,
+        "score": 325,
+        "alliance": "red",
+        "red_score": 325,
+        "blue_score": 103,
+        "video_url": "https://www.youtube.com/watch?v=7j4s-454gz0"
+      }
+    ]
+  },
+  "frc3632": {
+    "team_number": 3632,
+    "team_name": "D-Techs",
+    "top_matches": [
+      {
+        "match_key": "2026misal_sf9m1",
+        "comp_level": "sf",
+        "match_number": 1,
+        "set_number": 9,
+        "score": 286,
+        "alliance": "blue",
+        "red_score": 180,
+        "blue_score": 286,
+        "video_url": "https://www.youtube.com/watch?v=ES9FjsGPGCo"
+      },
+      {
+        "match_key": "2026misal_sf12m1",
+        "comp_level": "sf",
+        "match_number": 1,
+        "set_number": 12,
+        "score": 252,
+        "alliance": "blue",
+        "red_score": 157,
+        "blue_score": 252,
+        "video_url": "https://www.youtube.com/watch?v=tdN-a_IhJrI"
+      }
+    ]
+  },
+  "frc3641": {
+    "team_number": 3641,
+    "team_name": "The Flying Toasters",
+    "top_matches": [
+      {
+        "match_key": "2026mibel_sf1m1",
+        "comp_level": "sf",
+        "match_number": 1,
+        "set_number": 1,
+        "score": 400,
+        "alliance": "red",
+        "red_score": 400,
+        "blue_score": 66,
+        "video_url": "https://www.youtube.com/watch?v=u7xwidzVS5g"
+      },
+      {
+        "match_key": "2026mibel_sf7m1",
+        "comp_level": "sf",
+        "match_number": 1,
+        "set_number": 7,
+        "score": 382,
+        "alliance": "red",
+        "red_score": 382,
+        "blue_score": 245,
+        "video_url": "https://www.youtube.com/watch?v=jgsXkZdVyrw"
+      }
+    ]
+  },
+  "frc3688": {
+    "team_number": 3688,
+    "team_name": "Norsemen",
+    "top_matches": [
+      {
+        "match_key": "2026mitvc_qm38",
+        "comp_level": "qm",
+        "match_number": 38,
+        "set_number": 1,
+        "score": 239,
+        "alliance": "blue",
+        "red_score": 49,
+        "blue_score": 239,
+        "video_url": "https://www.youtube.com/watch?v=FSjnJJLTVKY"
+      },
+      {
+        "match_key": "2026mitvc_qm75",
+        "comp_level": "qm",
+        "match_number": 75,
+        "set_number": 1,
+        "score": 236,
+        "alliance": "red",
+        "red_score": 236,
+        "blue_score": 83,
+        "video_url": "https://www.youtube.com/watch?v=hmM9_68dJuE"
+      }
+    ]
+  },
+  "frc3707": {
+    "team_number": 3707,
+    "team_name": "TechnoDogs",
+    "top_matches": [
+      {
+        "match_key": "2026mimil_qm73",
+        "comp_level": "qm",
+        "match_number": 73,
+        "set_number": 1,
+        "score": 359,
+        "alliance": "red",
+        "red_score": 359,
+        "blue_score": 88,
+        "video_url": "https://www.youtube.com/watch?v=tbTmpltXYeI"
+      },
+      {
+        "match_key": "2026mimas_qm12",
+        "comp_level": "qm",
+        "match_number": 12,
+        "set_number": 1,
+        "score": 338,
+        "alliance": "blue",
+        "red_score": 226,
+        "blue_score": 338,
+        "video_url": "https://www.youtube.com/watch?v=ms9DKCv75-8"
+      }
+    ]
+  },
+  "frc3770": {
+    "team_number": 3770,
+    "team_name": "BlitzCreek",
+    "top_matches": [
+      {
+        "match_key": "2026miesc_qm67",
+        "comp_level": "qm",
+        "match_number": 67,
+        "set_number": 1,
+        "score": 335,
+        "alliance": "blue",
+        "red_score": 83,
+        "blue_score": 335,
+        "video_url": "https://www.youtube.com/watch?v=HFD5hfZ6d2E"
+      },
+      {
+        "match_key": "2026miesc_qm23",
+        "comp_level": "qm",
+        "match_number": 23,
+        "set_number": 1,
+        "score": 297,
+        "alliance": "red",
+        "red_score": 297,
+        "blue_score": 24,
+        "video_url": "https://www.youtube.com/watch?v=DW1EXXc6Q_4"
+      }
+    ]
+  },
+  "frc4237": {
+    "team_number": 4237,
+    "team_name": "Team Lance-A-Bot",
+    "top_matches": [
+      {
+        "match_key": "2026mibat_qm50",
+        "comp_level": "qm",
+        "match_number": 50,
+        "set_number": 1,
+        "score": 513,
+        "alliance": "blue",
+        "red_score": 154,
+        "blue_score": 513,
+        "video_url": "https://www.youtube.com/watch?v=21yv5nmOD_U"
+      },
+      {
+        "match_key": "2026mibat_f1m2",
+        "comp_level": "f",
+        "match_number": 2,
+        "set_number": 1,
+        "score": 496,
+        "alliance": "red",
+        "red_score": 496,
+        "blue_score": 316,
+        "video_url": "https://www.youtube.com/watch?v=BnOUNRl0WAA"
+      }
+    ]
+  },
+  "frc4327": {
+    "team_number": 4327,
+    "team_name": "Q Branch",
+    "top_matches": [
+      {
+        "match_key": "2026onham_qm24",
+        "comp_level": "qm",
+        "match_number": 24,
+        "set_number": 1,
+        "score": 437,
+        "alliance": "blue",
+        "red_score": 170,
+        "blue_score": 437,
+        "video_url": "https://www.youtube.com/watch?v=5PYmLPMW7GY"
+      },
+      {
+        "match_key": "2026onham_qm36",
+        "comp_level": "qm",
+        "match_number": 36,
+        "set_number": 1,
+        "score": 397,
+        "alliance": "blue",
+        "red_score": 399,
+        "blue_score": 397,
+        "video_url": "https://www.youtube.com/watch?v=8mQk6wHrQNA"
+      }
+    ]
+  },
+  "frc4422": {
+    "team_number": 4422,
+    "team_name": "Twisted Angels",
+    "top_matches": [
+      {
+        "match_key": "2026mibkn_qm35",
+        "comp_level": "qm",
+        "match_number": 35,
+        "set_number": 1,
+        "score": 280,
+        "alliance": "blue",
+        "red_score": 189,
+        "blue_score": 280,
+        "video_url": "https://www.youtube.com/watch?v=NgnrMxuu8fY"
+      },
+      {
+        "match_key": "2026mimtp_qm79",
+        "comp_level": "qm",
+        "match_number": 79,
+        "set_number": 1,
+        "score": 276,
+        "alliance": "blue",
+        "red_score": 104,
+        "blue_score": 276,
+        "video_url": "https://www.youtube.com/watch?v=8a47Hm6kckE"
+      }
+    ]
+  },
+  "frc5152": {
+    "team_number": 5152,
+    "team_name": "Alotobots",
+    "top_matches": [
+      {
+        "match_key": "2026mibat_qm11",
+        "comp_level": "qm",
+        "match_number": 11,
+        "set_number": 1,
+        "score": 377,
+        "alliance": "red",
+        "red_score": 377,
+        "blue_score": 95,
+        "video_url": "https://www.youtube.com/watch?v=duI1ziRKhvE"
+      },
+      {
+        "match_key": "2026mibat_qm64",
+        "comp_level": "qm",
+        "match_number": 64,
+        "set_number": 1,
+        "score": 354,
+        "alliance": "blue",
+        "red_score": 160,
+        "blue_score": 354,
+        "video_url": "https://www.youtube.com/watch?v=GVy-isW5zUY"
+      }
+    ]
+  },
+  "frc5166": {
+    "team_number": 5166,
+    "team_name": "Fabricators",
+    "top_matches": [
+      {
+        "match_key": "2026miken_qm48",
+        "comp_level": "qm",
+        "match_number": 48,
+        "set_number": 1,
+        "score": 386,
+        "alliance": "red",
+        "red_score": 386,
+        "blue_score": 122,
+        "video_url": "https://www.youtube.com/watch?v=3v_IA8AFQJs"
+      },
+      {
+        "match_key": "2026miken_qm24",
+        "comp_level": "qm",
+        "match_number": 24,
+        "set_number": 1,
+        "score": 385,
+        "alliance": "blue",
+        "red_score": 124,
+        "blue_score": 385,
+        "video_url": "https://www.youtube.com/watch?v=A8NYEOWh1Uw"
+      }
+    ]
+  },
+  "frc5216": {
+    "team_number": 5216,
+    "team_name": "E-Ville Empire",
+    "top_matches": [
+      {
+        "match_key": "2026mimid_sf3m1",
+        "comp_level": "sf",
+        "match_number": 1,
+        "set_number": 3,
+        "score": 304,
+        "alliance": "red",
+        "red_score": 304,
+        "blue_score": 76,
+        "video_url": "https://www.youtube.com/watch?v=H-T3HN0QHE0"
+      },
+      {
+        "match_key": "2026milsu_qm78",
+        "comp_level": "qm",
+        "match_number": 78,
+        "set_number": 1,
+        "score": 287,
+        "alliance": "red",
+        "red_score": 287,
+        "blue_score": 48,
+        "video_url": "https://www.youtube.com/watch?v=oPC7OvBZ2vA"
+      }
+    ]
+  },
+  "frc5460": {
+    "team_number": 5460,
+    "team_name": "Strike Zone",
+    "top_matches": [
+      {
+        "match_key": "2026misal_qm50",
+        "comp_level": "qm",
+        "match_number": 50,
+        "set_number": 1,
+        "score": 630,
+        "alliance": "red",
+        "red_score": 630,
+        "blue_score": 98,
+        "video_url": "https://www.youtube.com/watch?v=7kDG_zjjEIA"
+      },
+      {
+        "match_key": "2026misal_qm1",
+        "comp_level": "qm",
+        "match_number": 1,
+        "set_number": 1,
+        "score": 595,
+        "alliance": "blue",
+        "red_score": 78,
+        "blue_score": 595,
+        "video_url": "https://www.youtube.com/watch?v=akzNzr4c2dE"
+      }
+    ]
+  },
+  "frc5533": {
+    "team_number": 5533,
+    "team_name": "Electric Horse Power",
+    "top_matches": [
+      {
+        "match_key": "2026miliv_qm35",
+        "comp_level": "qm",
+        "match_number": 35,
+        "set_number": 1,
+        "score": 535,
+        "alliance": "blue",
+        "red_score": 90,
+        "blue_score": 535,
+        "video_url": "https://www.youtube.com/watch?v=RtPNPsWWi4w"
+      },
+      {
+        "match_key": "2026miliv_qm14",
+        "comp_level": "qm",
+        "match_number": 14,
+        "set_number": 1,
+        "score": 408,
+        "alliance": "red",
+        "red_score": 408,
+        "blue_score": 84,
+        "video_url": "https://www.youtube.com/watch?v=T7NF1lva_3M"
+      }
+    ]
+  },
+  "frc5534": {
+    "team_number": 5534,
+    "team_name": "Onaway Onabots",
+    "top_matches": [
+      {
+        "match_key": "2026mitvc_qm59",
+        "comp_level": "qm",
+        "match_number": 59,
+        "set_number": 1,
+        "score": 295,
+        "alliance": "blue",
+        "red_score": 50,
+        "blue_score": 295,
+        "video_url": "https://www.youtube.com/watch?v=co4ocX1LYUY"
+      },
+      {
+        "match_key": "2026milac_qm7",
+        "comp_level": "qm",
+        "match_number": 7,
+        "set_number": 1,
+        "score": 264,
+        "alliance": "red",
+        "red_score": 264,
+        "blue_score": 53,
+        "video_url": "https://www.youtube.com/watch?v=YgAIrbqwKqw"
+      }
+    ]
+  },
+  "frc6085": {
+    "team_number": 6085,
+    "team_name": "Green Devil Bots",
+    "top_matches": [
+      {
+        "match_key": "2026mifli_f1m1",
+        "comp_level": "f",
+        "match_number": 1,
+        "set_number": 1,
+        "score": 486,
+        "alliance": "red",
+        "red_score": 486,
+        "blue_score": 284,
+        "video_url": "https://www.youtube.com/watch?v=bdc_CDj50lA"
+      },
+      {
+        "match_key": "2026mifli_sf1m1",
+        "comp_level": "sf",
+        "match_number": 1,
+        "set_number": 1,
+        "score": 409,
+        "alliance": "red",
+        "red_score": 409,
+        "blue_score": 77,
+        "video_url": "https://www.youtube.com/watch?v=zUrIrbfBm08"
+      }
+    ]
+  },
+  "frc6615": {
+    "team_number": 6615,
+    "team_name": "Bellevillains",
+    "top_matches": [
+      {
+        "match_key": "2026mibel_qm21",
+        "comp_level": "qm",
+        "match_number": 21,
+        "set_number": 1,
+        "score": 373,
+        "alliance": "red",
+        "red_score": 373,
+        "blue_score": 227,
+        "video_url": "https://www.youtube.com/watch?v=BqhZ3Z9YmiY"
+      },
+      {
+        "match_key": "2026mimil_qm44",
+        "comp_level": "qm",
+        "match_number": 44,
+        "set_number": 1,
+        "score": 332,
+        "alliance": "red",
+        "red_score": 332,
+        "blue_score": 179,
+        "video_url": "https://www.youtube.com/watch?v=Q7YEsMoHhRU"
+      }
+    ]
+  },
+  "frc6753": {
+    "team_number": 6753,
+    "team_name": "CBA RoboKings",
+    "top_matches": [
+      {
+        "match_key": "2026miwmi_qm37",
+        "comp_level": "qm",
+        "match_number": 37,
+        "set_number": 1,
+        "score": 364,
+        "alliance": "red",
+        "red_score": 364,
+        "blue_score": 163,
+        "video_url": "https://www.youtube.com/watch?v=TaVvE5WFPmY"
+      },
+      {
+        "match_key": "2026miwmi_sf4m1",
+        "comp_level": "sf",
+        "match_number": 1,
+        "set_number": 4,
+        "score": 309,
+        "alliance": "blue",
+        "red_score": 317,
+        "blue_score": 309,
+        "video_url": "https://www.youtube.com/watch?v=PdXmNIn25QU"
+      }
+    ]
+  },
+  "frc7197": {
+    "team_number": 7197,
+    "team_name": "Mountie Megabots",
+    "top_matches": [
+      {
+        "match_key": "2026miche_qm71",
+        "comp_level": "qm",
+        "match_number": 71,
+        "set_number": 1,
+        "score": 307,
+        "alliance": "blue",
+        "red_score": 51,
+        "blue_score": 307,
+        "video_url": "https://www.youtube.com/watch?v=ieux7GF4_Vk"
+      },
+      {
+        "match_key": "2026mibkn_qm30",
+        "comp_level": "qm",
+        "match_number": 30,
+        "set_number": 1,
+        "score": 273,
+        "alliance": "red",
+        "red_score": 273,
+        "blue_score": 100,
+        "video_url": "https://www.youtube.com/watch?v=-IrLVICUzGY"
+      }
+    ]
+  },
+  "frc7768": {
+    "team_number": 7768,
+    "team_name": "The AutoMatons",
+    "top_matches": [
+      {
+        "match_key": "2026milsu_qm21",
+        "comp_level": "qm",
+        "match_number": 21,
+        "set_number": 1,
+        "score": 318,
+        "alliance": "blue",
+        "red_score": 47,
+        "blue_score": 318,
+        "video_url": "https://www.youtube.com/watch?v=UM_RIkJej4Y"
+      },
+      {
+        "match_key": "2026milsu_sf4m1",
+        "comp_level": "sf",
+        "match_number": 1,
+        "set_number": 4,
+        "score": 227,
+        "alliance": "blue",
+        "red_score": 184,
+        "blue_score": 227,
+        "video_url": "https://www.youtube.com/watch?v=cv56qDZ0UDU"
+      }
+    ]
+  },
+  "frc8179": {
+    "team_number": 8179,
+    "team_name": "Robo Falcons",
+    "top_matches": [
+      {
+        "match_key": "2026mibro_f1m1",
+        "comp_level": "f",
+        "match_number": 1,
+        "set_number": 1,
+        "score": 457,
+        "alliance": "red",
+        "red_score": 457,
+        "blue_score": 201,
+        "video_url": "https://www.youtube.com/watch?v=C6AqVdXFkbQ"
+      },
+      {
+        "match_key": "2026mibro_sf11m1",
+        "comp_level": "sf",
+        "match_number": 1,
+        "set_number": 11,
+        "score": 435,
+        "alliance": "red",
+        "red_score": 435,
+        "blue_score": 178,
+        "video_url": "https://www.youtube.com/watch?v=PU4yCCKaNEk"
+      }
+    ]
+  },
+  "frc8873": {
+    "team_number": 8873,
+    "team_name": "Rockefeller Robotics",
+    "top_matches": [
+      {
+        "match_key": "2026mimid_sf3m1",
+        "comp_level": "sf",
+        "match_number": 1,
+        "set_number": 3,
+        "score": 304,
+        "alliance": "red",
+        "red_score": 304,
+        "blue_score": 76,
+        "video_url": "https://www.youtube.com/watch?v=H-T3HN0QHE0"
+      },
+      {
+        "match_key": "2026mimid_sf8m1",
+        "comp_level": "sf",
+        "match_number": 1,
+        "set_number": 8,
+        "score": 274,
+        "alliance": "red",
+        "red_score": 274,
+        "blue_score": 153,
+        "video_url": "https://www.youtube.com/watch?v=2ldViISfGnQ"
+      }
+    ]
+  },
+  "frc9312": {
+    "team_number": 9312,
+    "team_name": "NERD Spark",
+    "top_matches": [
+      {
+        "match_key": "2026mibkn_qm48",
+        "comp_level": "qm",
+        "match_number": 48,
+        "set_number": 1,
+        "score": 393,
+        "alliance": "blue",
+        "red_score": 160,
+        "blue_score": 393,
+        "video_url": "https://www.youtube.com/watch?v=z8IJsn-3wRg"
+      },
+      {
+        "match_key": "2026mimas_qm18",
+        "comp_level": "qm",
+        "match_number": 18,
+        "set_number": 1,
+        "score": 309,
+        "alliance": "red",
+        "red_score": 309,
+        "blue_score": 153,
+        "video_url": "https://www.youtube.com/watch?v=jJg8BU-_vRM"
+      }
+    ]
+  },
+  "frc9757": {
+    "team_number": 9757,
+    "team_name": "Mecha Marauders",
+    "top_matches": [
+      {
+        "match_key": "2026mifen_qm34",
+        "comp_level": "qm",
+        "match_number": 34,
+        "set_number": 1,
+        "score": 356,
+        "alliance": "blue",
+        "red_score": 225,
+        "blue_score": 356,
+        "video_url": "https://www.youtube.com/watch?v=HELJfT6x9pA"
+      },
+      {
+        "match_key": "2026mifen_qm39",
+        "comp_level": "qm",
+        "match_number": 39,
+        "set_number": 1,
+        "score": 348,
+        "alliance": "blue",
+        "red_score": 248,
+        "blue_score": 348,
+        "video_url": "https://www.youtube.com/watch?v=iz4-DklegRc"
+      }
+    ]
+  },
+  "frc11386": {
+    "team_number": 11386,
+    "team_name": "Climax-Scotts PantherBots",
+    "top_matches": [
+      {
+        "match_key": "2026milak_qm24",
+        "comp_level": "qm",
+        "match_number": 24,
+        "set_number": 1,
+        "score": 285,
+        "alliance": "blue",
+        "red_score": 198,
+        "blue_score": 285,
+        "video_url": "https://www.youtube.com/watch?v=CLXU6vfrZ8E"
+      },
+      {
+        "match_key": "2026mibkn_qm65",
+        "comp_level": "qm",
+        "match_number": 65,
+        "set_number": 1,
+        "score": 266,
+        "alliance": "blue",
+        "red_score": 281,
+        "blue_score": 266,
+        "video_url": "https://www.youtube.com/watch?v=hRM-6R0TG-E"
+      }
+    ]
+  },
+  "frc11503": {
+    "team_number": 11503,
+    "team_name": "TALONS",
+    "top_matches": [
+      {
+        "match_key": "2026mimas_qm30",
+        "comp_level": "qm",
+        "match_number": 30,
+        "set_number": 1,
+        "score": 329,
+        "alliance": "blue",
+        "red_score": 50,
+        "blue_score": 329,
+        "video_url": "https://www.youtube.com/watch?v=SUuRnhQ0Pto"
+      },
+      {
+        "match_key": "2026mimus_f1m2",
+        "comp_level": "f",
+        "match_number": 2,
+        "set_number": 1,
+        "score": 301,
+        "alliance": "blue",
+        "red_score": 306,
+        "blue_score": 301,
+        "video_url": "https://www.youtube.com/watch?v=fIEDGdd6QHU"
+      }
+    ]
+  }
+}
